@@ -5,7 +5,7 @@ Valmis töö(d) tuleb laadida zone'i ja kood githubi/gitlabi vms.
 
 # Hajusrakenduse ülesanded
 
-## 1. <span style="color: green;">Vabalt valitud ilma API</span>
+## 1. <span style="color:green;">Vabalt valitud ilma API</span>
 
 -   Ühendada API-ga ja saada info (näiteks formaat JSON)
 -   Andmed cache-ida
